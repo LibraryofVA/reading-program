@@ -7,7 +7,7 @@ with federal funds from the <a href="http://www.imls.gov/" target="_blank">Insti
 and Library Services</a>.
 
 The <a href="http://www.lva.virginia.gov/" target="_blank">Library of Virginia</a> is evaluating 
-the Great Reading  Adventure (GRA) software with six Virginia public libraries and is sharing all  
+the Great Reading  Adventure (GRA) software with six Virginia public libraries and is sharing all 
 developed resources via this repository. All original GRA material within this  repository will be 
 labeled as such and maintains its original MIT License  (MIT). Newly developed code or pages 
 created by the Library of Virginia are  available for use under a GNU GPL v2.0 license. Artwork 
